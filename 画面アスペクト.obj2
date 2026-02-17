@@ -1,5 +1,5 @@
 --information:画面アスペクト r3 by 猫愛
---label:"カスタムオブジェクト"
+--label:カスタムオブジェクト
 
 --track@aspX:X比率,1,100,4,1
 --track@aspY:Y比率,1,100,3,1
